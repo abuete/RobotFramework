@@ -20,7 +20,7 @@ MySecondTest
 MyThirdTest
     Log             message=I am inside 3rd test
     Set Tags        Regression2
-    Remove Tags     Regression2    
+    Remove Tags     Regression2
 
 FirstSeleniumTest
     Open Browser    url=https://yahoo.com    browser=chrome
